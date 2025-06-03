@@ -1,4 +1,4 @@
 #!/bin/bash
 pwd
 whoami
-cat /etc/semaphore/config.json
+cat /etc/semaphore-web/config.json
